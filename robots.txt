@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zazocheegi.jacami.co/sitemap.xml
